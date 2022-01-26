@@ -18,6 +18,10 @@ section {
 
 /* QUIZ 1 */
 
+#quiz-1 {
+    background-color: lightcoral;
+}
+
 .circle {
     height: 100px;
     width: 100px;
