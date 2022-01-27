@@ -24,7 +24,7 @@ https://www.youtube.com/watch?v=Xm4BObh4MhI
 * [x] 57:07 The Data property
 * [x] 59:00 Flexbox
 * [x] 01:01:45 Pop Quiz
-* [ ] 01:03:41 Flexbox website layout
+* [x] 01:03:41 Flexbox website layout
 * [ ] 01:09:43 Commenting out Code
 * [ ] 01:13:37 Gradients in CSS
 * [ ] 01:15:53 Box Shadows in CSS
