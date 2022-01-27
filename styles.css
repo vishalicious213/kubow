@@ -45,3 +45,16 @@ section {
     /* she used border-radius 50px, which is the same as 50% b/c the div is 100x100 */
     background-color: lightseagreen;
 }
+
+/* QUIZ 2 */
+
+#quiz-2 {
+    background-color: cadetblue;
+}
+
+.child {
+    background-color: lightcoral;
+    width: 200px;
+    height: 100px;
+    border-radius: 20px;
+}
