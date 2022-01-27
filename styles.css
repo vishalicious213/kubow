@@ -14,16 +14,23 @@ section {
     width: 100%; 
     height: 100px; 
     /* background-color: red; */
-    background-color: #234def; /* using a hex value instead of a preset color */
+    /* background-color: #234def; /* using a hex value instead of a preset color */
     display: flex;
     /* flex-direction: row; */
     /* flex-wrap: wrap; */
     justify-content: center;
     align-items: center;
+    background-image: linear-gradient(red, yellow);
+    /* background-image: linear-gradient(to right, red, yellow); */
+    /* background-image: linear-gradient(to bottom right, red, yellow); */
+    /* background-image: linear-gradient(to right, red, yellow, green); */
+    /* background-image: linear-gradient(to right, red 10%, yellow 10%, green); */
+    /* background-image: repeating-linear-gradient(red, yellow 10%); */
 }
 
 .about-me {
-    width: 98%;
+    /* width: 98%; */
+    width: 100%;
     height: 300px;
     /* background-color: blue; */
     background-color: rgb(177, 69, 21, 0.8); /* using RGB color and transparency in last value */

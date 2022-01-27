@@ -25,8 +25,8 @@ https://www.youtube.com/watch?v=Xm4BObh4MhI
 * [x] 59:00 Flexbox
 * [x] 01:01:45 Pop Quiz
 * [x] 01:03:41 Flexbox website layout
-* [ ] 01:09:43 Commenting out Code
-* [ ] 01:13:37 Gradients in CSS
+* [x] 01:09:43 Commenting out Code
+* [x] 01:13:37 Gradients in CSS
 * [ ] 01:15:53 Box Shadows in CSS
 * [ ] 01:17:18 Button Styling in CSS
 * [ ] 01:25:51 Fonts
