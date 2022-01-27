@@ -1,13 +1,13 @@
 header {
-    width: 300px; 
-    height: 200px; 
+    width: 50%; 
+    height: 50px; 
     /* background-color: green; */
     background-color: rgb(113, 74, 145);
 }
 
 section {
     width: 300px; 
-    height: 200px; 
+    height: 100px; 
     /* background-color: red; */
     background-color: #234def; /* using a hex value instead of a preset color */
 }
