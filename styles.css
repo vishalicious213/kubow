@@ -1,19 +1,22 @@
 header {
     width: 300px; 
     height: 200px; 
-    background-color: green;
+    /* background-color: green; */
+    background-color: rgb(113, 74, 145);
 }
 
 section {
     width: 300px; 
     height: 200px; 
-    background-color: red;
+    /* background-color: red; */
+    background-color: #234def; /* using a hex value instead of a preset color */
 }
 
 .about-me {
     width: 300px;
     height: 100px;
-    background-color: blue;
+    /* background-color: blue; */
+    background-color: rgb(177, 69, 21, 0.8); /* using RGB color and transparency in last value */
     margin: 10px;
     border: 10px solid black;
     border-radius: 15px;
