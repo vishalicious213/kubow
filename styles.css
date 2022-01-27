@@ -50,6 +50,8 @@ section {
 
 #quiz-2 {
     background-color: cadetblue;
+    display: flex;
+    justify-content: center;
 }
 
 .child {
