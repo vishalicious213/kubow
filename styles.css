@@ -28,6 +28,12 @@ section {
     /* background-image: repeating-linear-gradient(red, yellow 10%); */
 }
 
+#main-test {
+    /* box-shadow: 10px 10px; */
+    box-shadow: 3px 3px 5px grey;
+    /* horizontal, vertical, softness, color */
+}
+
 .about-me {
     /* width: 98%; */
     width: 100%;
