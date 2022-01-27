@@ -3,8 +3,8 @@
 https://www.youtube.com/watch?v=Xm4BObh4MhI
 
 ## Content:
-[x] 00:00 Introduction
-[x] 03:34 Code Editors 
+* [x] 00:00 Introduction
+* [x] 03:34 Code Editors 
 ## -- HTML --
 [x] 06:05 HTML Introduction
 [x] 08:22 HTML Boilerplate setup
