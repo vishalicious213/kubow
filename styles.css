@@ -152,8 +152,25 @@ button:active, .button:active {
     box-shadow: inset -2px -2px 3px rgba(255, 255, 255, 0.6);
 }
 
+form {
+    margin: 0 0 40px 0;
+}
+
+.input-section {
+    margin: 20px 0;
+    display: flex;
+}
+
+.input-group {
+    display: flex;
+    flex-direction: column;
+    margin: 0 5px 0 0;
+}
+
 footer {
     font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: center;
 }
 
 a {
