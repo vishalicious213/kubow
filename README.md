@@ -30,8 +30,8 @@ https://www.youtube.com/watch?v=Xm4BObh4MhI
 * [x] 01:15:53 Box Shadows in CSS
 * [x] 01:17:18 Button Styling in CSS
 * [x] 01:25:51 Fonts
-* [ ] 01:29:25 Generic Website Layout
-* [ ] 01:34:28 making a NavBar
+* [x] 01:29:25 Generic Website Layout
+* [ ] 01:34:28 Making a NavBar
 * [ ] 01:46:54 Anchor Links
 * [ ] 01:50:17 Creating Sections
 * [ ] 02:13:50 Forms in CSS and HTML
