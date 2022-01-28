@@ -36,15 +36,18 @@ li {
 
 section {
     width: 100%; 
-    height: 100px; 
-    /* background-color: red; */
-    /* background-color: #234def; /* using a hex value instead of a preset color */
+    background-color: #ffffff;
     display: flex;
-    /* flex-direction: row; */
-    /* flex-wrap: wrap; */
     justify-content: center;
     align-items: center;
-    background-image: linear-gradient(red, yellow);
+    flex-wrap: wrap;
+    padding: 40px 0 0 0;
+    /* height: 100px;  */
+    /* background-color: red; */
+    /* background-color: #234def; /* using a hex value instead of a preset color */
+    /* flex-direction: row; */
+    /* flex-wrap: wrap; */
+    /* background-image: linear-gradient(red, yellow); */
     /* background-image: linear-gradient(to right, red, yellow); */
     /* background-image: linear-gradient(to bottom right, red, yellow); */
     /* background-image: linear-gradient(to right, red, yellow, green); */
@@ -52,24 +55,38 @@ section {
     /* background-image: repeating-linear-gradient(red, yellow 10%); */
 }
 
+.about-me {
+    width: 300px;
+    margin: 5px;
+    display: flex;
+    justify-content: space-evenly;
+    /* height: 300px;
+    background-color: blue; */
+}
+
+.info {
+    max-width: 300px;
+    margin: 30px;
+}
+
 #main-test {
-    /* box-shadow: 10px 10px; */
     box-shadow: 3px 3px 5px grey;
+    /* box-shadow: 10px 10px; */
     /* horizontal, vertical, softness, color */
 }
 
 .hero {
-    /* width: 98%; */
     width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    /* width: 98%; */
     /* height: 300px; */
     /* background-color: blue; */
     /* background-color: rgb(177, 69, 21, 0.8); using RGB color and transparency in last value */
     /* margin: 10px 0;
     border: .5rem solid black;
     border-radius: 15px; */
-    display: flex;
-    justify-content: space-between;
-    flex-wrap: wrap;
 }
 
 .hero-info {
