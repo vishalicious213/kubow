@@ -34,7 +34,7 @@ https://www.youtube.com/watch?v=Xm4BObh4MhI
 * [x] 01:34:28 Making a NavBar
 * [x] 01:46:54 Anchor Links
 * [x] 01:50:17 Creating Sections
-* [ ] 02:13:50 Forms in CSS and HTML
+* [x] 02:13:50 Forms in CSS and HTML
 * [ ] 02:26:55 Font Awesome
 * [ ] 02:32:12 Break points
 * [ ] 02:38:35 Z-index

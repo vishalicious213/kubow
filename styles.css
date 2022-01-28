@@ -177,6 +177,10 @@ footer {
     justify-content: center;
 }
 
+.far, .fas {
+    margin: 5px;
+}
+
 a {
     text-decoration: none;
     color: black;
