@@ -37,7 +37,7 @@ https://www.youtube.com/watch?v=Xm4BObh4MhI
 * [x] 02:13:50 Forms in CSS and HTML
 * [x] 02:26:55 Font Awesome
 * [x] 02:32:12 Break points
-* [ ] 02:38:35 Z-index
+* [x] 02:38:35 Z-index
 ## -- JAVASCRIPT --
 * [ ] 02:49:24 Check-in
 * [ ] 02:51:07 Introduction to JavaScript
