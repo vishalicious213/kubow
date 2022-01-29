@@ -223,3 +223,15 @@ a:active {
     height: 100px;
     border-radius: 20px;
 }
+
+
+@media only screen and (max-width: 750px) {
+    .hero-info {
+        max-width: 700px;
+    }
+
+    .hero-img {
+        visibility: hidden;
+        height: 0px;
+    }
+}
