@@ -227,7 +227,35 @@ a:active {
 /* QUIZ 3 */
 
 #quiz-3 {
-    background-color: lightseagreen;
+    background-color: black;
+}
+
+.first-circle {
+    background-color: red;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.second-circle {
+    background-color: orange;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.third-circle {
+    background-color: yellow;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.fourth-circle {
+    background-color: green;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
 }
 
 /* BREAKPOINTS */
