@@ -224,6 +224,13 @@ a:active {
     border-radius: 20px;
 }
 
+/* QUIZ 3 */
+
+#quiz-3 {
+    background-color: lightseagreen;
+}
+
+/* BREAKPOINTS */
 
 @media only screen and (max-width: 750px) {
     .hero-info {
