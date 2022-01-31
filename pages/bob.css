@@ -1,10 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 body {
     background-color: aquamarine;
     display: flex;
-    justify-content: center;
-  }
-  
-  .face {
+    flex-direction: column;
+    align-items: center;
+}
+
+p {
+    margin-top: 2rem;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+}
+
+.face {
     /* position: absolute; */
     background-color: bisque;
     height: 150px;
@@ -12,28 +21,27 @@ body {
     border-radius: 75px;
     margin-left: 50px;
     margin-top: 80px;
-  }
-  
-  .eye-container {
+}
+
+.eye-container {
     display: flex;
     flex-direction: row;
     padding-left: 15px;
     margin-top: 20px;
-  }
-  
-  .eye {
+}
+
+.eye {
     background-color: white;
     height: 40px;
     width: 40px;
     border-radius: 20px;
     margin: 10px;
-  }
-  
-  .pupil {
+}
+
+.pupil {
     background-color: black;
     height: 20px;
     width: 20px;
     border-radius: 10px;
     margin: 10px 0px 10px 20px;
-  }
-  
+}
