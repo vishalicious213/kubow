@@ -51,18 +51,19 @@ https://www.youtube.com/watch?v=Xm4BObh4MhI
 * [x] 04:07:58 Arrays
 * [x] 04:14:42 Objects
 * [x] 04:24:50 Functions
-* [ ] 04:37:51 A Progress Exercise
-* [ ] 04:48:20 Arrow Functions
-* [ ] 04:52:21 While loop
-* [ ] 04:55:23 Built-in-Objects Introduction
-* [ ] 04:56:02 .length()
-* [ ] 05:01:29 .concat()
-* [ ] 05:06:41 .join()
-* [ ] 05:12:06 .pop()
-* [ ] 05:18:46 .shift()
-* [ ] 05:22:13 .unshift()
-* [ ] 05:25:32 .push()
-* [ ] 05:35:51 .splice()
+* [x] 04:37:51 A Progress Exercise
+* [x] 04:48:20 Arrow Functions
+* [x] 04:52:21 While loop
+* [x] 04:55:23 Built-in-Objects Introduction
+* [x] 04:56:02 .length()
+* [x] 05:01:29 .concat()
+* [x] 05:06:41 .join()
+* [x] 05:12:06 .pop()
+* [x] 05:18:46 .shift()
+* [x] 05:22:13 .unshift()
+* [x] 05:25:32 .push()
+* [x] 05:29:02 .slice
+* [x] 05:35:51 .splice()
 * [ ] 05:41:47 .forEach()
 * [ ] 05:50:25 .some()
 * [ ] 05:59:49 .map()
