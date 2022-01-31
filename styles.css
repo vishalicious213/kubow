@@ -194,6 +194,10 @@ a:active {
     color: purple;
 }
 
+#quizzes {
+    justify-content: flex-start;
+}
+
 /* QUIZ 1 */
 
 #quiz-1 {
