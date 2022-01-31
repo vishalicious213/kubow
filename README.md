@@ -68,9 +68,9 @@ https://www.youtube.com/watch?v=Xm4BObh4MhI
 * [x] 05:50:25 .some()
 * [x] 05:59:49 .map()
 * [x] 06:07:19 .filter()
-* [ ] 06:17:06 .reduce()
-* [ ] 06:22:27 .every()
-* [ ] 06:28:25 .split()
+* [x] 06:17:06 .reduce()
+* [x] 06:22:27 .every()
+* [x] 06:28:25 .split()
 * [ ] 06:34:25 Array work - Exercises to practise
 * [ ] 07:18:06 .addEventListener()
 * [ ] 07:26:09 .removeEventListener()
