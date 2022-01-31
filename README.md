@@ -39,18 +39,18 @@ https://www.youtube.com/watch?v=Xm4BObh4MhI
 * [x] 02:32:12 Break points
 * [x] 02:38:35 Z-index
 ## -- JAVASCRIPT --
-* [ ] 02:49:24 Check-in
-* [ ] 02:51:07 Introduction to JavaScript
-* [ ] 02:52:12 JavaScript file setup
-* [ ] 02:58:39 Variables
-* [ ] 03:16:15 Control Flow
-* [ ] 03:16:40 If Statements
-* [ ] 03:26:09 Operators
-* [ ] 03:55:39 Fizz Buzz Exercise
-* [ ] 04:00:59 for loops
-* [ ] 04:07:58 Arrays
-* [ ] 04:14:42 Objects
-* [ ] 04:24:50 Functions
+* [x] 02:49:24 Check-in
+* [x] 02:51:07 Introduction to JavaScript
+* [x] 02:52:12 JavaScript file setup
+* [x] 02:58:39 Variables
+* [x] 03:16:15 Control Flow
+* [x] 03:16:40 If Statements
+* [x] 03:26:09 Operators
+* [x] 03:55:39 Fizz Buzz Exercise
+* [x] 04:00:59 for loops
+* [x] 04:07:58 Arrays
+* [x] 04:14:42 Objects
+* [x] 04:24:50 Functions
 * [ ] 04:37:51 A Progress Exercise
 * [ ] 04:48:20 Arrow Functions
 * [ ] 04:52:21 While loop
