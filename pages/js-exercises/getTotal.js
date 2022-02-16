@@ -8,6 +8,7 @@ function getTotal(arr) {
 }
 
 console.log(getTotal(words))
+// 22
 
 // need "0" at end of reduce method to tell it which index to start at.
 // If "0" is not there, it will return "Rabbit88".
