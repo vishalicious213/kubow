@@ -4,6 +4,23 @@
 const wordsArray = ['Florida', 'dog', 'phone']
 const number = 5
 
-function getWords() {
-    
+function getWords(words, length) {
+    let newWords = []
+
+    words.map(word => {
+        if (word.length >= length) {
+            newWords.push(word)
+        }
+    })
+
+    return(newWords)
 }
+
+console.log(getWords(wordsArray, number))
+
+
+// UPER
+// take in the array and number
+// for each word in the array, check if word.length >= number
+// make new array with words that pass test
+// return new array
