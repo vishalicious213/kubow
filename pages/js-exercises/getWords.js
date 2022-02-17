@@ -4,19 +4,21 @@
 const wordsArray = ['Florida', 'dog', 'phone']
 const number = 5
 
-function getWords(words, length) {
-    let newWords = []
+// FIRST SOLUTION
 
-    words.map(word => {
-        if (word.length >= length) {
-            newWords.push(word)
-        }
-    })
+// function getWords(words, length) {
+//     let newWords = []
 
-    return(newWords)
-}
+//     words.map(word => {
+//         if (word.length >= length) {
+//             newWords.push(word)
+//         }
+//     })
 
-console.log(getWords(wordsArray, number))
+//     return(newWords)
+// }
+
+// console.log(getWords(wordsArray, number))
 
 
 // UPER
@@ -24,3 +26,12 @@ console.log(getWords(wordsArray, number))
 // for each word in the array, check if word.length >= number
 // make new array with words that pass test
 // return new array
+
+
+// SECOND SOLUTION
+
+function getWords(words, length) {
+    return words.filter(word => word.length >= length)
+}
+
+console.log(getWords(wordsArray, number))
