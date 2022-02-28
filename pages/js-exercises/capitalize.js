@@ -9,3 +9,10 @@ function capitalize() {
 
 console.log(capitalize(sampleSentence))
 
+// take in sampleSentence
+// split the sentence into words using space as delimiter
+// map through resulting array & make new array
+    // for each word make new word by:
+        // capitalizing first letter (charAt(0)) of word
+        // take remaining letters and add them to it (substring(1))
+        // join them into a string, use a space as delimiter
